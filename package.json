@@ -22,7 +22,8 @@
     "eslint": "^8.7.0",
     "flow-bin": "^0.188.2",
     "rollup": "^2.64.0",
-    "rollup-plugin-inject": "^3.0.2"
+    "rollup-plugin-inject": "^3.0.2",
+    "serve": "^14.2.0"
   },
   "dependencies": {
     "three": "^0.136.0"
